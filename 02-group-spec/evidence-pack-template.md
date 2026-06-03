@@ -5,8 +5,8 @@ Nộp kèm thin SPEC cuối Day 05.
 ## 1. Nhóm và track
 
 **Tên nhóm:**  
-**Track:**  
-**Product/app đã chọn:**  
+**Track:**  A
+**Product/app đã chọn:**  AI cho giáo dục, LMS, trợ lý học tập. Gợi ý: Cá nhân hóa lộ trình học, gia sư LMS tương tác, trợ lý lớp live, lab copilot.
 **Build slice đang nghĩ:**  
 
 ## 2. Self-use evidence
